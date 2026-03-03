@@ -8,9 +8,5 @@
 - Next.js API routes for backend
 - Polling-based realtime (every 5 seconds)
 
-## Getting Started
 
-`
-npm install
-cp .env.example .env.local
-`
+(deployed on (vercel){https://polygon-probab.vercel.app/})
