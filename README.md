@@ -1,5 +1,5 @@
 # ProbabMarket — Polymarket Realtime Probabilities
-
+(vibecoded)
 ## Tech Stack
 
 - Next.js 14 (App Router, TypeScript)
