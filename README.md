@@ -9,8 +9,8 @@
 - Polling-based realtime (every 5 seconds)
 
 ## Getting Started
+
 `
-bash
 npm install
 cp .env.example .env.local
 `
