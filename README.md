@@ -9,4 +9,4 @@
 - Polling-based realtime (every 5 seconds)
 
 
-(deployed on (vercel){https://polygon-probab.vercel.app/})
+(deployed on {vercel}(https://polygon-probab.vercel.app/))
